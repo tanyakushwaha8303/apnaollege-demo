@@ -1,2 +1,3 @@
 # apnaollege-demo
-this is my first repository
+this is my first github repository
+Author-Tanya kushwaha
